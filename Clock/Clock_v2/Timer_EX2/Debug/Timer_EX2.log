@@ -1,0 +1,19 @@
+﻿cl : 命令列 warning D9035: 選項 'clr:pure' 已被取代，在未來的發行版本中將會移除
+  stdafx.cpp
+cl : 命令列 warning D9035: 選項 'clr:pure' 已被取代，在未來的發行版本中將會移除
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': 已標記為過時
+  AssemblyInfo.cpp(40): note: 訊息: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  Clock.cpp
+  Timer_EX2.cpp
+c:\users\user\desktop\程式\c程式_1下\作業\掛在牆上的時鐘(完整版)\timer_ex2\timer_ex2\Form1.h(300): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\程式\c程式_1下\作業\掛在牆上的時鐘(完整版)\timer_ex2\timer_ex2\Form1.h(301): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\程式\c程式_1下\作業\掛在牆上的時鐘(完整版)\timer_ex2\timer_ex2\Form1.h(302): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\程式\c程式_1下\作業\掛在牆上的時鐘(完整版)\timer_ex2\timer_ex2\Form1.h(303): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\程式\c程式_1下\作業\掛在牆上的時鐘(完整版)\timer_ex2\timer_ex2\Form1.h(304): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\程式\c程式_1下\作業\掛在牆上的時鐘(完整版)\timer_ex2\timer_ex2\Form1.h(305): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+cl : 命令列 warning D9035: 選項 'clr:pure' 已被取代，在未來的發行版本中將會移除
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Timer_EX2.vcxproj -> C:\Users\USER\Desktop\程式\C程式_1下\作業\掛在牆上的時鐘(完整版)\Timer_EX2\Debug\Timer_EX2.exe
+  Timer_EX2.vcxproj -> C:\Users\USER\Desktop\程式\C程式_1下\作業\掛在牆上的時鐘(完整版)\Timer_EX2\Debug\Timer_EX2.pdb (Full PDB)

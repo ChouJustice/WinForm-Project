@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Monopoly.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Monopoly.exe.config
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Monopoly.exe
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Monopoly.pdb
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Monopoly.Properties.Resources.resources
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Monopoly.exe
+C:\Users\USER\Desktop\程式\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Monopoly.pdb
