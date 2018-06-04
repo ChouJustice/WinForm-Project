@@ -1,0 +1,13 @@
+﻿cl : 命令列 warning D9035: 選項 'clr:pure' 已被取代，在未來的發行版本中將會移除
+  stdafx.cpp
+cl : 命令列 warning D9035: 選項 'clr:pure' 已被取代，在未來的發行版本中將會移除
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': 已標記為過時
+  AssemblyInfo.cpp(40): note: 訊息: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  Ball.cpp
+  Grapics_Ball EX1.cpp
+  正在產生程式碼...
+cl : 命令列 warning D9035: 選項 'clr:pure' 已被取代，在未來的發行版本中將會移除
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Grapics_Ball EX1.vcxproj -> C:\Users\USER\Desktop\程式\C程式_1下\課堂練習\Visual2008\Graphics Ball\Grapics_Ball EX2\Debug\Grapics_Ball EX1.exe
+  Grapics_Ball EX1.vcxproj -> C:\Users\USER\Desktop\程式\C程式_1下\課堂練習\Visual2008\Graphics Ball\Grapics_Ball EX2\Debug\Grapics_Ball EX1.pdb (Full PDB)
